@@ -1,0 +1,144 @@
+c:\users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\mscorlib.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\System.Net.Http.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\System.Net.Http.xml
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\tr\System.Net.Http.resources.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normidna.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfc.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfd.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfkc.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfkd.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+D:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+E:\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+E:\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+E:\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+E:\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.AssemblyReference.cache
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.SuggestedBindingRedirects.cache
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.cache
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.CoreCompileInputs.cache
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+D:\Öğrenim\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.SuggestedBindingRedirects.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\projeler\yedek staj 2\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Staj-2 Projem\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\gunluk\Dijital Günlük\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.grsform.resources
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Kayitform.resources
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.sifirlaform.resources
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\serha\Desktop\Projelerim\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
